@@ -8,8 +8,8 @@ Para caso específico do usuário, leia as descrições abaixo e escolha quais d
 
 | Nome da Folder | Explicação de Uso |
 |----------|----------|
-| bin 	   |          |
-| build    |          |
+| bin 	   | Geralmente reservado para guardar os outputs executáveis dos processos de build do projeto e utilitários executáveis adjacentes ao executável principal do projeto. |
+| build    | Contém os arquivos intermediários e metadados que são gerados durante o processo de build. Costuma ser limpo entre builds consecutivos.        |
 | config   |          |
 | deploy   |          |
 | dll      |          |
