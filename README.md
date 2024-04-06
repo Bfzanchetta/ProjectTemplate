@@ -12,8 +12,8 @@ Para caso específico do usuário, leia as descrições abaixo e escolha quais d
 | build    | Contém os arquivos intermediários e metadados que são gerados durante o processo de build. Costuma ser limpo entre builds consecutivos.        |
 | config   |          |
 | deploy   |          |
-| dll      |          |
-| doc      |          |
+| dll      | Local de concentração dos arquivos .dll utilizados pela aplicação, caso utilize alguma.         |
+| doc      | Espaço reservado para PDFs, .docs, .txts, .ppts e tudo que for pertinente à documentação do seu projeto.        |
 | examples |          |
 | include  |          |
 | lib      |          |
